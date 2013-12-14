@@ -9,9 +9,10 @@
     					android:paddingRight="20dp"
 					    android:paddingBottom="10dp"
     					android:gravity="center_horizontal|top"
-    					android:background="@android:color/white"
-					    android:soundEffectsEnabled="false">
-
+    					androidةؤن ىتى ىتىـت خ من ن تن مةتىنتتنت تى و  ححعلامهؤ ر:background="@android:color/white"
+					    android:soundEffectsEnabled="false"> 
+ كخنحخةهخ ةةة هنىعخته نتعنىنتبىتىنى ىتىهتيبىتى نتنى نة تعتمىتضختمة مةمتنمة خهىخى نتتيى تهلايخلا نهلاصا الاهختهتهخثىخ عتخهثصىثنىخهت تختثختخت خهتهث 
+ شخ نة يةخهيةخة ىتىتى تىتيهى ب
 						<TextView
 							android:layout_width="fill_parent"
 						    android:layout_height="wrap_content"
